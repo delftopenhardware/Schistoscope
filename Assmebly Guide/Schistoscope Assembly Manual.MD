@@ -64,15 +64,24 @@ Some parts require additional preparation before assembly. The following parts r
 1. Sample Stage Holder:  
 Insert the M3 heat set insert into the holes (refer image) on the top of the sample stage holder. The insert should be flush with the top of the sample stage holder.  
    <img src="Prepare3DParts/HeatSetSampleStageHolder.svg" alt="Image" width="500"/>
-1. Y Gantry Base
-2. Z Gantry Base
-3. Y Endstop 1
-4. Y Endstop 2
-5. X Endstop 1
-6. X Endstop 2
-7.  Z Endstop 1
-8.  Z Endstop 2
-9.  Z Lead Screw Mount
+1. Y Gantry Base  
+Insert the M4 heat set insert into the holes (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/ygantry.svg" alt="Image" width="500"/>
+2. Z Gantry Base  
+Insert the M4 heat set insert into the holes (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/zgantry.svg" alt="Image" width="500"/>
+3. Y Endstop 1 and Y Endstop 2
+Insert the M2 heat set insert into the hole (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/yendstop1.svg" alt="Image" width="500"/>
+1. X Endstop 1 and X Endstop 2  
+Insert the M2 heat set insert into the hole (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/xendstop1.svg" alt="Image" width="500"/>
+2. Z Endstop 1 and Z Endstop 2  
+Insert the M2 heat set insert into the hole (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/zendstop1.svg" alt="Image" width="500"/>
+3. Z Lead Screw Mount  
+Insert the M3 heat set insert into the hole (refer image) on the top of the part. The insert should be flush with the top of the part.  
+   <img src="Prepare3DParts/zleadscrew.svg" alt="Image" width="500"/>
 
 
 ----
