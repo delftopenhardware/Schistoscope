@@ -96,3 +96,21 @@ The scope has the following laser cut parts:
 8. Light Source Base
 9. Electronics Base
 
+_____
+_____
+
+# Frame Assembly
+The frame of the scope is made from 2020 (20x20mm) and 2040 (20x40mm) aluminium extrusions. The frame is assembled using M4 screws and T-nuts.  
+The alumnum extrusion is cut to the following lengths:
+- 2020 Extrusion
+  1. 350mm x 2
+  2. 175mm x 2
+  3. 205mm x 2
+  4. 215mm x 2
+  5. 300mm x 3
+- 2040 Extrusion
+  1. 300mm x 1 
+
+The frame is assembled as follows:
+1. Assemble the 2020 extrusions as shown in the image below. Hover over the table on the left to the see location of the profiles in the image on the right and vice vera.
+<img src="FrameAssembly/Frame1.svg" alt="Image" width="500"/>
