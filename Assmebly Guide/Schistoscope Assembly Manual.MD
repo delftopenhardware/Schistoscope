@@ -112,5 +112,5 @@ The alumnum extrusion is cut to the following lengths:
   1. 300mm x 1 
 
 The frame is assembled as follows:
-1. Assemble the 2020 extrusions as shown in the image below. Hover over the table on the left to the see location of the profiles in the image on the right and vice vera.
+1. Assemble the 2020 extrusions as shown in the image below. Hover over the table on the left to the see location of the profiles in the image on the right and vicevera.  
 <img src="FrameAssembly/Frame1.svg" alt="Image" width="500"/>
