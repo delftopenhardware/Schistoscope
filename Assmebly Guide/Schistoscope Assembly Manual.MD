@@ -197,7 +197,3 @@ Note: the limit switch is mounted on the opposite side of the 3D printed part wh
 
 1. Follow the same procedure for the Y end stops. Refer the image below for more details.  
 <img src="FrameAssembly/ylimit1.svg" alt="Image" width="500"/>
-
-
-
-
