@@ -5,7 +5,10 @@ Navigate to 'Assembly Guide' or https://delftopenhardware.github.io/Schistoscope
 
 All the parts CAD parts are located in the 'CAD' folder
 
-The BOM can be found in the 'BOM' folder
+The BOM can be found in the 'BOM' folder    
+
+<img src="https://github.com/delftopenhardware/Schistoscope/assets/2862153/a47b8911-cc00-403e-a82b-8613be604845" alt="drawing" width="100"/>
+
 
 This project is a part of the Inspired  
 https://inspired-diagnostics.info/
